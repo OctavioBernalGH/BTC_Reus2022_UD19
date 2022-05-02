@@ -14,7 +14,7 @@
  [comment]: <> (### Ejercicios SQL Unidad UD16<hr>)
 
 
-Este ejercicio ha sido realizado por los miembros del equipo 1. Dicho equipo esta formado por:
+Estos ejercicios han sido realizado por los miembros del equipo 1. Dicho equipo esta formado por:
 
 [- Octavio Bernal](https://github.com/OctavioBernalGH)<br>
 [- David Dalmau](https://github.com/DavidDalmauDieguez)<br>
